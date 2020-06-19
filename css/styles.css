@@ -1,9 +1,15 @@
 .new{
     background-color: khaki;
 }
-#output{
+#output, #output2, #output3, #output4{
     font-style: normal;
     font-family: arial;
     font-size: large;
-    color: forestgreen;
+    color: red;
+}
+.container{
+    background-color: paleturquoise;
+}
+h1{
+    text-align: center;
 }
